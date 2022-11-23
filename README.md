@@ -58,10 +58,6 @@ As views da aplicação serão baseadas no padrão MVC usando opcionalmente a bi
 
 ## :computer: Tecnologias Utilizadas
 
-<p align="center">
-      <img src="/Imagens_Geral/tech.JPG" >      
-<p align="center">
-</p>
 <br>
 
 * **Banco de Dados:** SQL
