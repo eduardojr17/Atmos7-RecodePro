@@ -4,7 +4,7 @@ Projeto de um Site/Sistema de Agência de Viagens do curso de FullStack da Recod
 <br>
 
 <p align="center">
-      <img src="/img.logo1.png" width="200" height="200">
+      <img src="/atmosfront/src/img/logo1.png" width="200" height="200">
 <p align="center">
 
 <hr>
@@ -46,9 +46,13 @@ As views da aplicação serão baseadas no padrão MVC usando opcionalmente a bi
 
 ## :camera_flash: As Versões
 
-☑️ 1 ENTREGA: [https://squad562.github.io/siteprimeiraentrega/](https://squad562.github.io/siteprimeiraentrega/) :heavy_check_mark:
+☑️ 1 ENTREGA: [https://github.com/eduardojr17/Atmos7-RecodePro/tree/main/old-versions/entrega-1](https://github.com/eduardojr17/Atmos7-RecodePro/tree/main/old-versions/entrega-1) :heavy_check_mark:
 
-☑️ 2 ENTREGA: [https://squad561.github.io/sitesegundaentrega/](https://squad561.github.io/sitesegundaentrega/)  :heavy_check_mark:
+☑️ 2 ENTREGA: [https://github.com/eduardojr17/Atmos7-RecodePro/tree/main/old-versions/entrega-2](https://github.com/eduardojr17/Atmos7-RecodePro/tree/main/old-versions/entrega-2) :heavy_check_mark:
+
+☑️ 3 ENTREGA: [https://github.com/eduardojr17/Atmos7-RecodePro/tree/main/old-versions/entrega-3](https://github.com/eduardojr17/Atmos7-RecodePro/tree/main/old-versions/entrega-3) :heavy_check_mark:
+
+☑️ 4 ENTREGA: [https://github.com/eduardojr17/Atmos7-RecodePro/tree/main/old-versions/entrega-4](https://github.com/eduardojr17/Atmos7-RecodePro/tree/main/old-versions/entrega-4) :heavy_check_mark:
 
 <br> 
 
