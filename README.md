@@ -39,7 +39,7 @@ As views da aplicação serão baseadas no padrão MVC usando opcionalmente a bi
 ## :camera_flash: Apresentação Final do Projeto
 
 **:link: Clique no link abaixo para visualizar o site hospedado:**
->  [http://www.douto.com.br](https://sitesegundaentrega.vercel.app/)
+>  [Em breve](https://github.com/eduardojr17/Atmos7-RecodePro/)
       
      
 <br> 
