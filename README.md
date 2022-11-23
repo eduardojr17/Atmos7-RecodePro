@@ -4,7 +4,7 @@ Projeto de um Site/Sistema de Agência de Viagens do curso de FullStack da Recod
 <br>
 
 <p align="center">
-      <img src="/atmosfront/src/img/logo1.png" width="200" height="200">
+      <img src="/atmosfront/src/img/logo1.png" width="200" height="160">
 <p align="center">
 
 <hr>
@@ -72,6 +72,6 @@ As views da aplicação serão baseadas no padrão MVC usando opcionalmente a bi
 
 <br>
 
-<h1 align="center"> <img src = "Imagens_Geral/recode.png" height="90" /></h1>    
+<h1 align="center"> <img src = "/atmosfront/src/img/recode.png" height="90" /></h1>    
  
 
